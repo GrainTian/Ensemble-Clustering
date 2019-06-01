@@ -1,0 +1,11 @@
+pair_ratio,sub_database_num,selectio_ratio,AR,RI,MI,HI,NMI,time,n,m,name
+1,20,0.1,0.36608858892415,0.682707562136436,0.317292437863564,0.365415124272871,0.368831064528669,0.7999674,62,2000,colon.mat
+1,20,0.1,0.0364546551647075,0.517715494447382,0.482284505552618,0.0354309888947647,0.0458479245789832,0.8558838,62,2000,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,colon.mat
