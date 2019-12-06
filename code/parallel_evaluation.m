@@ -8,12 +8,12 @@ dataset=dataname(data_order);
 %dataname = cellstr(["BreastTissue.mat"]);
 %dataset=dataname(1);
 iteration = 10; 
-pair_ratio_range = [0.2:0.2:2];
-sub_database_num_range =[10,20,30,40,50]; 
-select_ratio_range = [0.1:0.1:0.5]; 
-%pair_ratio_range = [1];
-%sub_database_num_range =[20]; 
-%select_ratio_range = [0.3]; 
+%pair_ratio_range = [0.2:0.2:2];
+%sub_database_num_range =[10,20,30,40,50]; 
+%select_ratio_range = [0.1:0.1:0.5]; 
+pair_ratio_range = [1];
+sub_database_num_range =[20]; 
+select_ratio_range = [0.3]; 
 % selected_num = 5; 
 %================================================================
 

@@ -1,1 +1,1 @@
-pmetis graph0 3
+pmetis graph0 6
