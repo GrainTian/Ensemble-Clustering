@@ -3,7 +3,7 @@
 
 ## Requirements
 
-The code was implemented using Matlab. Matlab 2016 and later version is recommended.
+The code was implemented using Matlab. Matlab 2016 and later versions are recommended.
 
 ## Datasets
 
